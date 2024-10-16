@@ -1,0 +1,8 @@
+ABCBA CBAA
+ C CBC  c 
+CAA CbbbbC
+  B ccCCC 
+BBAaCcA aa
+ABAAa CBAa
+CCC AaAAAB
+ A AACCcAB
