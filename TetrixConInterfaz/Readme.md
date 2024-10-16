@@ -1,8 +1,8 @@
-Deslizator II - Juego con Interfaz Gráfica
-Descripción
+# Deslizator II - Juego con Interfaz Gráfica
+## Descripción
 Este proyecto implementa la segunda versión del juego Deslizator, una aplicación de tablero que utiliza una Interfaz Gráfica de Usuario (GUI) desarrollada con la librería wxPython. Es una continuación de la primera práctica en la que el juego se ejecutaba en un entorno de texto. En esta ocasión, se ha diseñado una versión orientada a ventanas con varios controles interactivos para mejorar la experiencia del usuario.
 
-Funcionalidades Implementadas
+## Funcionalidades Implementadas
 1. Estado Gráfico del Tablero
 	- El tablero del juego se muestra de manera gráfica en todo momento. Cada vez que ocurre un cambio en el juego (movimientos, caídas de bloques, etc.), la interfaz se actualiza para reflejar el estado actual del tablero.
 2. Lectura de Archivos de Entrada
@@ -22,10 +22,10 @@ Funcionalidades Implementadas
 	- Animación de movimientos y caídas: Los movimientos de los bloques y sus caídas se animan, brindando una experiencia visual más fluida.
 	- Adaptación al tamaño de ventana: La interfaz gráfica se adapta al tamaño de la ventana si esta se redimensiona, ajustando el tamaño de los bloques y el tablero en consecuencia.
 
-Requisitos Técnicos
+## Requisitos Técnicos
 	Librería wxPython: Todo el desarrollo de la GUI está basado en la librería wxPython. 
 	Para ejecutar el proyecto, asegúrate de tener instalada esta librería: "pip install wxPython"
 
-Ejecución 
+## Ejecución 
 Para ejecutar el juego, simplemente ejecuta el archivo principal desde una terminal o un entorno de desarrollo como Visual Studio Code: "python main.py"
 	- Una vez esto deberás abrir con el menú "abir fichero" uno de los archivos que se adjuntan como "examen_.txt"
